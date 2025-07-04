@@ -82,6 +82,7 @@ terraform destroy
 Uses the ami-0c7217cdde317cfec (Ubuntu 20.04 in us-east-1)
 
 Remote provisioning is done using the remote-exec provisioner to print a welcome message
+This is the project link: https://roadmap.sh/projects/iac-digitalocean
 
 Replace provisioning logic in main.tf to install packages or configure apps
 
